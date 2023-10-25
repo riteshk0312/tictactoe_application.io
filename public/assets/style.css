@@ -1,0 +1,13 @@
+.square{
+    border: 1px solid black;
+    text-align: center;
+    font-weight: 600;
+    height: 60px;
+    width: 60px;
+    background-color: #c0b8e7;
+    font-size: 20px;
+    vertical-align: middle;
+}
+.App{
+    margin-top: 80px;
+}
